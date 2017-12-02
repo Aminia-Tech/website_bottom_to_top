@@ -22,7 +22,7 @@
 ###################################################################################
 {
     'name' : 'Odoo Websit Bottom to Top',
-    'version': '8.0.1.1.1',
+    'version': '9.0.1.1.1',
     'summary': 'Module is useful for adding functionality to website up down',
     'sequence': 30,
     'category': 'Website',   
