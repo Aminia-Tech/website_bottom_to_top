@@ -1,5 +1,5 @@
-odoo.define("website_up_down.updown", function (require) {
-    "use strict";
+(function () {
+    'use strict';
 
     $(document).ready(function () {
         $("#btn_scroll_up").click(function(ev){
@@ -23,7 +23,5 @@ odoo.define("website_up_down.updown", function (require) {
             document.body.scrollTop = 0; // For Chrome, Safari and Opera
             document.documentElement.scrollTop = 0; // For IE and Firefox
         }
-
     });
-
-});
+})();
