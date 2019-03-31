@@ -4,7 +4,7 @@
 #
 #    Odoo Websit Bottom to Top
 #
-#    Copyright (C) 2017 Aminia Technology
+#    Copyright (C) 2019 Aminia Technology
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -22,7 +22,7 @@
 ###################################################################################
 {
     'name' : 'Odoo Websit Bottom to Top',
-    'version': '10.0.1.1.1', 
+    'version': '12.0.1.1.1',
     'summary': 'Module is useful for adding functionality to website up down',
     'sequence': 30,
     'category': 'Website',   
